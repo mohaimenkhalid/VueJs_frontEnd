@@ -1,7 +1,7 @@
 <template>
 
 	
-<div>
+<div style="min-height: 850px;">
     <div class="contant_left"><h1>Service</h1>
         Service for this website<br/>
             <font size="3">

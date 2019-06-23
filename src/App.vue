@@ -13,13 +13,13 @@
              </div>
             <div class="nav">
               <ul>
-              <li><router-link to="/">Home</router-link></li>
+              <li><router-link to="/" exact>Home</router-link></li>
               <li><router-link to="/about">About US</router-link></li>
               <li><router-link to="/service">Services</router-link></li>
-              <li><router-link to="/">Stratagy</router-link></li>
-              <li><router-link to="/">Product</router-link></li>
-              <li><router-link to="/">Resorces</router-link></li>
-              <li><router-link to="/">Contacts</router-link></li>
+              <!-- <li><router-link to="">Stratagy</router-link></li>
+              <li><router-link to="">Product</router-link></li>
+              <li><router-link to="">Resorces</router-link></li>
+              <li><router-link to="">Contacts</router-link></li> -->
               
           </ul>
             </div>
